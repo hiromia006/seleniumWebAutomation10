@@ -18,7 +18,6 @@ public class BrowserLaunch {
 
 
         Thread.sleep(2000);
-
         driver.quit();
     }
 }
