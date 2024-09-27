@@ -33,9 +33,6 @@ public class DroppableTest {
                 .click().build().perform();
         Thread.sleep(1000);
 
-
-
-
         driver.quit();
 
     }
